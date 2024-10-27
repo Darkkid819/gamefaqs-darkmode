@@ -1,0 +1,54 @@
+/* Custom Dark Mode for GameFAQs */
+body {
+    background-color: #1e1e1e !important;
+    color: #f0f0f0 !important;
+}
+
+a {
+    color: #5fa8ff !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: #9fd4ff !important;
+    text-decoration: underline !important;
+}
+
+pre, code {
+    background-color: #2d2d2d !important;
+    color: #dcdcdc !important;
+    padding: 10px !important;
+    border-radius: 4px;
+    overflow-x: auto;
+}
+
+table {
+    background-color: #252526 !important;
+    color: #c7c7c7 !important;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #3c3c3c;
+    padding: 8px;
+}
+
+input, textarea {
+    background-color: #333 !important;
+    color: #ddd !important;
+    border: 1px solid #555 !important;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #1e1e1e;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #3a3a3a;
+    border-radius: 10px;
+}
