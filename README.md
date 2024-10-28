@@ -18,7 +18,7 @@ This is a Firefox extension that automatically applies a custom dark mode theme 
    ```
 3. Click **Load Temporary Add-on**.
 4. Select the folder containing the downloaded files.
-5. **Optional**: go to https://addons.mozilla.org/en-US/developers/addon/custom-dark-mode-for-gamefaqs and install
+5. **Optional**: go to [https://addons.mozilla.org/en-US/developers/addon/custom-dark-mode-for-gamefaqs and install](https://addons.mozilla.org/en-US/firefox/addon/custom-dark-mode-for-gamefaqs/)
 
 ## How to Use
 - Visit [GameFAQs](https://gamefaqs.gamespot.com/), and the dark mode theme will automatically apply.
